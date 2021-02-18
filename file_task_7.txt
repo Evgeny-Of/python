@@ -1,0 +1,5 @@
+firm_1 ООО 10 5
+firm_2 ЗАО 20 9
+firm_3 OOО 10 2
+firm_4 OOО 20 40
+firm_5 ООО 10 1
